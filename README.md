@@ -1,20 +1,30 @@
-# MyDataProjects
-I'm Olayiwola Basit Olakunke, a data enthusiast turning raw numbers into clear insights.  
-This is a collection of my personal data projects showcasing my skills in data analysis, visualization, and basic machine learning.
+# About me
+I’m a results and purpose-driven professional with a strong background in data analytics, sales performance analysis, and business strategy. My career has allowed me to bridge the gap between data insights and business growth, helping organizations make smarter, data-driven decisions.
+I specialize in transforming raw data into actionable insights that improve efficiency, optimize revenue streams, and guide strategic planning. With a foundation in sales analytics and business analysis, I bring both the technical expertise and the commercial mindset needed to deliver measurable impact.
 
-## 🚀 Highlights
-- Python & SQL for data analysis
-- Dashboards built in Power BI & Excel
-- Real-world datasets with practical insights
-- Focused on problem-solving across industries
+## 🔍 What I Do
 
-## 🧰 Tool
-- Python (Pandas, Matplotlib, Scikit-learn)
-- Power BI, Excel
-- SQL, Jupyter Notebook
+Data Analytics: Cleaning, analyzing, and visualizing data for actionable insights.
+
+Sales Analytics: Monitoring KPIs, forecasting trends, and identifying growth opportunities.
+
+Business Analysis: Evaluating processes and recommending data-driven improvements.
+
+Strategy: Supporting decision-making with dashboards, models, and insights.
+
+## 🛠️ Tech & Tools
+
+- Languages: SQL, Python
+- Visualization: Power BI, Tableau, Excel
+- Data Handling: Pandas, NumPy
+- Methodologies: Agile, Scrum
+
+## 🌍 Career Vision
+
+I’m passionate about leveraging data to drive business growth and strategic advantage. My long-term goal is to help organizations integrate data analytics into their core decision-making processes, turning insights into sustainable value
 
 ## 📂 Structure
-Each folder includes:
+Each repository includes:
 - Data source or link
 - Notebook or report
 - Visualizations
